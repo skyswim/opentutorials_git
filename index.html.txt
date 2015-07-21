@@ -7,6 +7,7 @@
 
 <ul>
 	<li>Git</li>
+	<li>Version</li>
 </ul>
 </3>
 </2>
